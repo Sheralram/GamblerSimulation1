@@ -5,7 +5,5 @@ public class utilityclass {
     public static final int bet=1;
 
     //public void Gambler{
-
-
     //}
 }
